@@ -1,0 +1,82 @@
+[
+    {
+        "item": "Spaghetti Bolognese",
+        "regular_price": 12.99,
+        "current_price": 9.99,
+        "discount_percentage": 23,
+        "category": "Pasta",
+        "image": "spaghetti_image.jpg",
+        "description": "Classic spaghetti with rich meat sauce."
+    },
+    {
+        "item": "Grilled Chicken Salad",
+        "regular_price": 8.99,
+        "current_price": 6.99,
+        "discount_percentage": 22,
+        "category": "Salad",
+        "image": "salad_image.jpg",
+        "description": "Healthy salad with grilled chicken, fresh vegetables, and vinaigrette."
+    },
+    {
+        "item": "Margherita Pizza",
+        "regular_price": 10.99,
+        "current_price": 8.99,
+        "discount_percentage": 18,
+        "category": "Pizza",
+        "image": "pizza_image.jpg",
+        "description": "Classic Margherita pizza with tomato, mozzarella, and basil."
+    },
+    {
+        "item": "Chicken Alfredo",
+        "regular_price": 14.99,
+        "current_price": 11.99,
+        "discount_percentage": 20,
+        "category": "Pasta",
+        "image": "alfredo_image.jpg",
+        "description": "Creamy Alfredo pasta with grilled chicken."
+    },
+    {
+        "item": "Caesar Salad",
+        "regular_price": 7.99,
+        "current_price": 5.99,
+        "discount_percentage": 25,
+        "category": "Salad",
+        "image": "caesar_salad_image.jpg",
+        "description": "Classic Caesar salad with romaine lettuce, croutons, and Caesar dressing."
+    },
+    {
+        "item": "Vegetarian Pizza",
+        "regular_price": 11.99,
+        "current_price": 9.99,
+        "discount_percentage": 17,
+        "category": "Pizza",
+        "image": "vegetarian_pizza_image.jpg",
+        "description": "Vegetarian pizza loaded with fresh vegetables and cheese."
+    },
+    {
+        "item": "Lasagna",
+        "regular_price": 13.99,
+        "current_price": 10.99,
+        "discount_percentage": 21,
+        "category": "Pasta",
+        "image": "lasagna_image.jpg",
+        "description": "Layers of pasta, ricotta, mozzarella, and meat sauce baked to perfection."
+    },
+    {
+        "item": "Greek Salad",
+        "regular_price": 8.99,
+        "current_price": 6.99,
+        "discount_percentage": 22,
+        "category": "Salad",
+        "image": "greek_salad_image.jpg",
+        "description": "Refreshing Greek salad with feta, olives, and Mediterranean flavors."
+    },
+    {
+        "item": "Pepperoni Pizza",
+        "regular_price": 12.99,
+        "current_price": 10.99,
+        "discount_percentage": 15,
+        "category": "Pizza",
+        "image": "pepperoni_pizza_image.jpg"
+    }
+]
