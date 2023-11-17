@@ -27,6 +27,7 @@ async function run() {
   try {
  await client.connect()
  const dataCollection=client.db("main").collection("all")
+
  app.get('/all',async(req,res)=>{
     const query={}
     const alldata=await dataCollection.find(query).toArray()
